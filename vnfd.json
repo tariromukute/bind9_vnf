@@ -1,5 +1,5 @@
 {
-  "lifecycle_events": [
+  "lifecycle_event": [
     {
       "event": "INSTANTIATE",
       "lifecycle_events": [
