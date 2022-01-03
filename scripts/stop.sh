@@ -2,4 +2,4 @@
 
 set -e
 
-sudo service bind9 stop
+sudo systemctl stop named

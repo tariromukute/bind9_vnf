@@ -2,4 +2,4 @@
 
 set -e
 
-sudo service bind9 start
+sudo systemctl restart named && sudo systemctl enable named
